@@ -35,7 +35,7 @@ export default function Home() {
         </section>
 
         <section className={classes.section}>
-          <h2>Why NextLevel Food?</h2>
+          <h2>Why Food Lovers?</h2>
           <p>
             Food Lovers is a platform for foodies to share their favorite
             recipes with the world. It&apos;s a place to discover new dishes,
